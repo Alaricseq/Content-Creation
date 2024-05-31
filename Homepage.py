@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # Your Google API key
-API_KEY = "AIzaSyD5KahUkm_sd7WI64t18j-7zn8UVCcExoE"
+API_KEY = "Your API Key"
 
 # Homepage
 st.title("Content Creation Portal")
